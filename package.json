@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4Mi/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "starwars",
+    "names"
+  ],
+  "author": "Amir Hashemi <amirhashemei+npmjs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S4Mi/starwars-names/issues"
+  },
+  "homepage": "https://github.com/S4Mi/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
